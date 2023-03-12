@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohibn22
+- 👋 Hi, I’m @Mr_MMOHH
 - 👀 I’m interested in ...Data Analytics
 - 🌱 I’m currently learning ...R
 - 💞️ I’m looking to collaborate on ...R programming Studio in Data analytics
